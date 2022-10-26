@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50a81de2bdc665e43824e62d44834254, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  name: Shotgun
+  icon: {fileID: 21300000, guid: eea3d3d3fc8ba9a468435784230a0da9, type: 3}
+  itemType: 0
+  isDefaultItem: 0
+  itemdescription: "\uB9C9\uAC15\uD55C \uD30C\uC6CC\uB97C \uAC00\uC9C4 \uC0F7\uAC74.
+    \uD55C\uBC88\uC5D0 5\uBC1C\uC774 \uB098\uAC00\uC9C0\uB9CC \uC801\uC911\uB960\uC774
+    \uB0AE\uB2E4. \uD0C4\uD658\uB2F9 15\uC758 \uD53C\uD574\uB97C \uC785\uD798"
+  itemnum: 0
+  equipSlot: 0
+  mesh: {fileID: 0}
+  gameobject: {fileID: 3004157171744662088, guid: 8fdc1929ce1951f49bbec8c4c398d1c7, type: 3}
+  offset: {x: 0, y: 0, z: 0}
+  armorModifier: 0
+  damageModifier: 17
+  itemvalue: 4

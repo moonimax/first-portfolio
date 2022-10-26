@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<gatchaitem>
+		<number>0</number>
+		<name>샐러리맨</name>
+		<rate>650</rate>
+	</gatchaitem>
+	<gatchaitem>
+		<number>1</number>
+		<name>나이트맨</name>
+		<rate>300</rate>
+	</gatchaitem>
+	<gatchaitem>
+		<number>2</number>
+		<name>사무라이</name>
+		<rate>300</rate>
+	</gatchaitem>
+	<gatchaitem>
+		<number>3</number>
+		<name>길리</name>
+		<rate>200</rate>
+	</gatchaitem>
+	<gatchaitem>
+		<number>4</number>
+		<name>치꼬</name>
+		<rate>300</rate>
+	</gatchaitem>
+	<gatchaitem>
+		<number>5</number>
+		<name>람보</name>
+		<rate>200</rate>
+	</gatchaitem>
+	<gatchaitem>
+		<number>6</number>
+		<name>젬</name>
+		<rate>80</rate>
+	</gatchaitem>
+	
+</root>
